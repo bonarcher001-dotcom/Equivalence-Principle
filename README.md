@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,7 +55,7 @@
     </main>
 
     <footer>
-        <p>Created by BSED SCIENCE - 3A &copy; 2026</p>
+        <p>Created by CHMSU TALISAY BSED SCIENCE - 3A &copy; 2026</p>
     </footer>
 
 </body>
