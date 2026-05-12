@@ -7,7 +7,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<body>
+    <img src="symbol.png" alt="Equivalence Symbol" class="corner-symbol top-left">
+    <img src="symbol.png" alt="Equivalence Symbol" class="corner-symbol bottom-right">
 
+    <header>
+        <h1>The Equivalence Principle</h1>
+        ...
     <header>
         <h1>The Equivalence Principle</h1>
         
